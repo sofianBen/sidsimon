@@ -1,3 +1,6 @@
+  @import url(../../bootstrap/css/bootstrap.min.css);
+  @import url(/styles/texte.css);
+
 .colorgraph {
   height: 5px;
   border-top: 0;
